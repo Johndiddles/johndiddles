@@ -1,6 +1,6 @@
 ![Banner](banner.jpg)
 
-<h2 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm John</h2>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm John</h1>
 
 <h3 align="center" >A frontend developer dedicated to implementing pixel perfect user friendly and interactive designs, without compromising quality and responsiveness</h3>
 
