@@ -1,4 +1,4 @@
-![Banner](banner.jpg)
+![Banner](banner.png)
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm John</h1>
 
