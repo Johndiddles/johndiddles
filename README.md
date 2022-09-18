@@ -4,8 +4,8 @@
 
 <h3 align="center" >A frontend developer dedicated to implementing pixel perfect user friendly and interactive designs, without compromising quality and responsiveness</h3>
 
-- 🔭 I'm currently working on a number of projects including Zuri Chat (a messaging software with lots of features to make remote work seamless for organizations).
-- 🌱 I’m currently learning Node.Js for backend while improving my ReactJs, HTML5 and CSS3 skills.
+- 🔭 I'm currently working at Middlechase Properties Limited, collaborating with other devs to build a web application that caters for most needs of a real estate firm.
+- 🌱 Alongside my daily job, I’m working to improve my Node.Js, ReactJs, Next.Js, HTML5 and CSS3 skills.
 - 👯 I'm looking to collaborate with companies, individuals and agencies on projects to improve users experience on the internet, provide solutions to  real life problems and everyday challenges.
 
 <!--
