@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm John</h1>
 
-<h3 align="center" >Results-driven Software Engineer with expertise in JavaScript, TypeScript, React, Node.js, and AWS. Contributed to the actualization of a $2.8M grant at Evon Medics LLC by automating data recovery and restoring over 6,000 critical data points, while re-engineering authentication workflows to enhance scalability for clinical trials. At Broadshift Technologies, I developed a shift management system that optimized staff scheduling and reduced operational costs by minimizing reliance on third-party services.</h3>
+<p align="center" >Results-driven Software Engineer with expertise in JavaScript, TypeScript, React, Node.js, and AWS. Contributed to the actualization of a $2.8M grant at Evon Medics LLC by automating data recovery and restoring over 6,000 critical data points, while re-engineering authentication workflows to enhance scalability for clinical trials. At Broadshift Technologies, I developed a shift management system that optimized staff scheduling and reduced operational costs by minimizing reliance on third-party services.</p>
 
 - 🔭 I'm currently working at Evon Medics LLC, a medical equipment research and development company based in Maryland, USA.
 - 🌱 Alongside my daily job, I’m working to improve my Backend skills while keeping my frontend skills up-to-date. I also spend some of my free time learning Java.
