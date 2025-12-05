@@ -12,7 +12,11 @@
 - 👯 I'm looking to collaborate with companies, individuals and agencies on projects to improve users experience on the internet, provide solutions to  real life problems and everyday challenges.
 - 😄 Pronouns: He/Him
 
+### Github Stats
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Johndiddles&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE" />
+
+### Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Johndiddles&theme=onedark&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Johndiddles/johndiddles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
