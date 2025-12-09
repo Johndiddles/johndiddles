@@ -13,7 +13,7 @@
 - 😄 Pronouns: He/Him
 
 ### Github Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Johndiddles&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Johndiddles&theme=dark" alt="GitHub Streak" /></a>
 
 ### Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Johndiddles&theme=onedark&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
